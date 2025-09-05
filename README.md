@@ -43,11 +43,11 @@
 
 ## Distribuição da base de amostra por classes sociais.
 
-<img src="/images/02-distribuição-classes.png" alt="Gráfico de distribuição de amostra por classe social" width="440">
+<img src="/images//images/02-distribuio-classes.png" alt="Gráfico de distribuição de amostra por classe social" width="440">
 
 ## Distribuição por região
 
-<img src="/images/03-distribuição-regiões.png" alt="Gráfico de distribuição por reguião" width="440">
+<img src="/images/03-distribuio-regies.png" alt="Gráfico de distribuição por reguião" width="440">
 
 | Regiao | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -61,7 +61,7 @@
 
 ## Distribuição de consumo de Engov
 
-<img src="/images/04-distribuição-consome-engov.png" alt="Gráfico de distribuição de consumidores e não consumidores" width="440">
+<img src="/images/04-distribuio-consome-engov.png" alt="Gráfico de distribuição de consumidores e não consumidores" width="440">
 
 | Consome_Engov | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -70,7 +70,7 @@
 
 ## Distribuição de frequência de consumo de Alcool
 
-<img src="/images/05-distribuição-frequencia-alcool.png" alt="Gráfico de distribuição de frequencia no consumo de alcool" width="440">
+<img src="/images/05-distribuio-frequencia-alcool.png" alt="Gráfico de distribuição de frequencia no consumo de alcool" width="440">
 
 | Frequencia_Alcool | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -80,7 +80,7 @@
 
 ## Distribuição de público que sai de balada
 
-<img src="/images/06-distribuição-sai-balada.png" alt="Gráfico de distribuição de hábitos de sair de balada" width="440">
+<img src="/images/06-distribuio-sai-balada.png" alt="Gráfico de distribuição de hábitos de sair de balada" width="440">
 
 | Sai_para_Balada | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -92,7 +92,7 @@
 
 ## Distribuição de mídia preferida
 
-<img src="/images/07-distribuição-midia-preferida.png" alt="Gráfico de distribuição de mídia preferida" width="440">
+<img src="/images/07-distribuio-midia-preferida.png" alt="Gráfico de distribuição de mídia preferida" width="440">
 
 | Midia_Preferida | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -114,7 +114,7 @@
 
 ## Histograma de peso e projeção
 
-<img src="/images/10-histograma-peso-projeção.png" alt="histograma de peso e projeção" width="440">
+<img src="/images/10-histograma-peso-projeo.png" alt="histograma de peso e projeção" width="440">
 
 # 2. Cruzamentos e Aprofundamento
 
@@ -153,13 +153,13 @@ Para explorar este insight, vamos cruzar a variável `Consome_Engov` com a `Midi
 
 Para este insight, vamos explorar o perfil demográfico (idade e classe) dos usuários das mídias digitais mais populares em nosso dataset: **TikTok**, **Spotify**, **YouTube** e **Instagram**. O objetivo é criar uma "persona" para quem usa essas plataformas e descobrir se há um perfil específico.
 
-<img src="/images/12-distribuição-classes-tiktok.png" alt="Distribuição de classes sociais no TikTok" width="440">
+<img src="/images/12-distribuio-classes-tiktok.png" alt="Distribuição de classes sociais no TikTok" width="440">
 
-<img src="/images/13-distribuição-classes-spotify.png" alt="Distribuição de classes sociais Spotify" width="440">
+<img src="/images/13-distribuio-classes-spotify.png" alt="Distribuição de classes sociais Spotify" width="440">
 
-<img src="/images/14-distribução-classes-youtube.png" alt="Distribuição de classes sociais no youtube" width="440">
+<img src="/images/14-distribuo-classes-youtube.png" alt="Distribuição de classes sociais no youtube" width="440">
 
-<img src="/images/15-distribuição-classes-instagram.png" alt="Distribuição de classes sociais no instagram" width="440">
+<img src="/images/15-distribuio-classes-instagram.png" alt="Distribuição de classes sociais no instagram" width="440">
 
 - **Público de Instagram e TikTok:** Os gráficos de **Instagram** e **TikTok** são muito similares. Ambos têm a maior concentração de público na **Classe B** (53.8% e 52.8%, respectivamente) e na **Classe C** (30.8% e 30.6%). A presença da Classe A é a menor. Isso reforça a ideia de que essas plataformas são muito populares entre as classes B e C.
 - **Público de YouTube:** O público do **YouTube** tem uma composição um pouco diferente. Embora a **Classe B** ainda seja o maior grupo (50%), a **Classe C** tem uma porcentagem maior (39.3%) em comparação com as outras mídias, enquanto a Classe A tem a menor representação de todas as mídias digitais analisadas (10.7%). Isso sugere que o YouTube pode ser uma plataforma valiosa para atingir um público de classe C.
@@ -179,7 +179,7 @@ A análise nos mostra que não existe um único "público digital". Cada platafo
 
 <img src="/images/17-Midias-preferida-classe-b.png" alt="Midias preferidas pela classe B" width="440">
 
-<img src="/images/18-Mídia-preferida-classe-c.png" alt="Midias preferidas pela classe C" width="440">
+<img src="/images/18-Mdia-preferida-classe-c.png" alt="Midias preferidas pela classe C" width="440">
 
 ### **Insights da Análise por Classe Social**
 
@@ -240,9 +240,9 @@ O público com `Média` frequência de consumo de álcool é o maior grupo de n�
 
 O objetivo desta análise é entender se a idade tem alguma relação com o nível de afinidade com a marca. No início do projeto, notamos que o histograma de `Indice_Afinidade` era bimodal, com picos em baixa e alta afinidade. Agora, vamos cruzar isso com a idade para ver se a afinidade com a marca muda com o tempo.
 
-<img src="/images/21-distribuição-idade-publico-baixa-afinidade.png" alt="Distribuição de idade para o publico de baixa afinidade" width="440">
+<img src="/images/21-distribuio-idade-publico-baixa-afinidade.png" alt="Distribuição de idade para o publico de baixa afinidade" width="440">
 
-<img src="/images/22-distribuição-idade-publico-alta-afinidade.png" alt="Distribuição de idade para o publico de alta afinidade" width="440">
+<img src="/images/22-distribuio-idade-publico-alta-afinidade.png" alt="Distribuição de idade para o publico de alta afinidade" width="440">
 
 ### **1. A Idade Média não Define a Afinidade**
 
@@ -285,7 +285,7 @@ Antes de aplicar a clusterização, os dados foram preparados:
 
 ### **3. Perfis dos Clusters**
 
-<img width="836" height="699" alt="24-grafico-clusters" src="https://github.com/user-attachments/assets/1244807a-25d2-44f1-b08d-3e79682219a8" /> TROCAR DEPOIS DO UPLOAD
+<img src="/images/24-grafico-clusters.png" alt="Grafico de de clusterização" width="440">
 
 A análise final identificou três perfis distintos de consumidores:
 
