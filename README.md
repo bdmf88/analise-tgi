@@ -39,7 +39,7 @@
 
 ## Distribuição da base de amostra por sexo.
 
-<img src="/images/01-distribuição-sexo.png" alt="Gráfico de distribuição de amostra por sexo" width="440">
+<img src="/images/01-distribuio-sexo.png" alt="Gráfico de distribuição de amostra por sexo" width="440">
 
 ## Distribuição da base de amostra por classes sociais.
 
@@ -295,11 +295,11 @@ A análise final identificou três perfis distintos de consumidores:
 | **1 (Fiel)** | 43 anos | 167 (Alta) | 75% Consomem | **TV Aberta**, **Instagram**, **Revistas** |
 | **2 (Potencial)** | 39 anos | 92 (Baixa) | 55% Consomem | **TikTok**, **Spotify** |
 
-| Sexo | F (%) | M (%) |
-| :--- | :--- | :--- |
-| **Cluster 0** | 41.54 | 58.46 |
-| **Cluster 1** | 45.76 | 54.24 |
-| **Cluster 2** | 48.68 | 51.32 |
+| Cluster | Instagram (%) | Revistas (%) | Rádio FM (%) | Spotify (%) | TV Aberta (%) | TikTok (%) | YouTube (%) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **0** (Cauteloso) | 10.77 | 7.69 | 9.23 | 23.08 | 20.00 | 16.92 | 12.31 |
+| **1** (Fiel) | 15.25 | 15.25 | 11.86 | 10.17 | 23.73 | 8.47 | 15.25 |
+| **2** (Potencial) | 13.16 | 10.53 | 5.26 | 15.79 | 14.47 | 26.32 | 14.47 |
 
 | Consome_Engov | Não (%) | Sim (%) |
 | :--- | :--- | :--- |
@@ -307,11 +307,11 @@ A análise final identificou três perfis distintos de consumidores:
 | **Cluster 1** | 25.42 | 74.58 |
 | **Cluster 2** | 44.74 | 55.26 |
 
-| Cluster | Instagram (%) | Revistas (%) | Rádio FM (%) | Spotify (%) | TV Aberta (%) | TikTok (%) | YouTube (%) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **0** (Cauteloso) | 10.77 | 7.69 | 9.23 | 23.08 | 20.00 | 16.92 | 12.31 |
-| **1** (Fiel) | 15.25 | 15.25 | 11.86 | 10.17 | 23.73 | 8.47 | 15.25 |
-| **2** (Potencial) | 13.16 | 10.53 | 5.26 | 15.79 | 14.47 | 26.32 | 14.47 |
+| Sexo | F (%) | M (%) |
+| :--- | :--- | :--- |
+| **Cluster 0** | 41.54 | 58.46 |
+| **Cluster 1** | 45.76 | 54.24 |
+| **Cluster 2** | 48.68 | 51.32 |
 
 ### **Interpretação dos Clusters**
 
