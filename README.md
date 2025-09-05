@@ -39,15 +39,15 @@
 
 ## Distribuição da base de amostra por sexo.
 
-![01-distribuição-sexo.png](01-distribuio-sexo.png)
+<img src="/images/01-distribuição-sexo.png" alt="Gráfico de distribuição de amostra por sexo" width="440">
 
 ## Distribuição da base de amostra por classes sociais.
 
-![02-distribuição-classes.png](02-distribuio-classes.png)
+<img src="/images/02-distribuição-classes.png" alt="Gráfico de distribuição de amostra por classe social" width="440">
 
 ## Distribuição por região
 
-![03-distribuição-regiões.png](03-distribuio-regies.png)
+<img src="/images/03-distribuição-regiões.png" alt="Gráfico de distribuição por reguião" width="440">
 
 | Regiao | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -61,7 +61,7 @@
 
 ## Distribuição de consumo de Engov
 
-![04-distribuição-consome-engov.png](04-distribuio-consome-engov.png)
+<img src="/images/04-distribuição-consome-engov.png" alt="Gráfico de distribuição de consumidores e não consumidores" width="440">
 
 | Consome_Engov | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -70,7 +70,7 @@
 
 ## Distribuição de frequência de consumo de Alcool
 
-![05-distribuição-frequencia-alcool.png](05-distribuio-frequencia-alcool.png)
+<img src="/images/05-distribuição-frequencia-alcool.png" alt="Gráfico de distribuição de frequencia no consumo de alcool" width="440">
 
 | Frequencia_Alcool | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -80,7 +80,7 @@
 
 ## Distribuição de público que sai de balada
 
-![06-distribuição-sai-balada.png](06-distribuio-sai-balada.png)
+<img src="/images/06-distribuição-sai-balada.png" alt="Gráfico de distribuição de hábitos de sair de balada" width="440">
 
 | Sai_para_Balada | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -92,7 +92,7 @@
 
 ## Distribuição de mídia preferida
 
-![07-distribuição-midia-preferida.png](07-distribuio-midia-preferida.png)
+<img src="/images/07-distribuição-midia-preferida.png" alt="Gráfico de distribuição de mídia preferida" width="440">
 
 | Midia_Preferida | Contagem | Porcentagem (%) |
 | --- | --- | --- |
@@ -106,15 +106,15 @@
 
 ## Histograma de idade
 
-![08-histograma-de-idade.png](08-histograma-de-idade.png)
+<img src="/images/08-histograma-de-idade.png" alt="histograma de idades" width="440">
 
 ## Histograma de afinidade
 
-![09-histograma-indice-afinidade.png](09-histograma-indice-afinidade.png)
+<img src="/images/09-histograma-indice-afinidade.png" alt="histograma de afinidade" width="440">
 
 ## Histograma de peso e projeção
 
-![10-histograma-peso-projeção.png](10-histograma-peso-projeo.png)
+<img src="/images/10-histograma-peso-projeção.png" alt="histograma de peso e projeção" width="440">
 
 # 2. Cruzamentos e Aprofundamento
 
@@ -122,7 +122,7 @@
 
 Para explorar este insight, vamos cruzar a variável `Consome_Engov` com a `Midia_Preferida`. O objetivo é descobrir se existe uma diferença no consumo de mídia entre quem usa o produto e quem não usa.
 
-![download.png](download.png)
+<img src="/images/download.png" alt="midia preferida por consumo de engov" width="440">
 
 | Mídia Preferida | Não Consome Engov (%) | Sim, Consome Engov (%) |
 | --- | --- | --- |
@@ -153,13 +153,13 @@ Para explorar este insight, vamos cruzar a variável `Consome_Engov` com a `Midi
 
 Para este insight, vamos explorar o perfil demográfico (idade e classe) dos usuários das mídias digitais mais populares em nosso dataset: **TikTok**, **Spotify**, **YouTube** e **Instagram**. O objetivo é criar uma "persona" para quem usa essas plataformas e descobrir se há um perfil específico.
 
-![12-distribuição-classes-tiktok.png](12-distribuio-classes-tiktok.png)
+<img src="/images/12-distribuição-classes-tiktok.png" alt="Distribuição de classes sociais no TikTok" width="440">
 
-![13-distribuição-classes-spotify.png](13-distribuio-classes-spotify.png)
+<img src="/images/13-distribuição-classes-spotify.png" alt="Distribuição de classes sociais Spotify" width="440">
 
-![14-distribução-classes-youtube.png](14-distribuo-classes-youtube.png)
+<img src="/images/14-distribução-classes-youtube.png" alt="Distribuição de classes sociais no youtube" width="440">
 
-![15-distribuição-classes-instagram.png](15-distribuio-classes-instagram.png)
+<img src="/images/15-distribuição-classes-instagram.png" alt="Distribuição de classes sociais no instagram" width="440">
 
 - **Público de Instagram e TikTok:** Os gráficos de **Instagram** e **TikTok** são muito similares. Ambos têm a maior concentração de público na **Classe B** (53.8% e 52.8%, respectivamente) e na **Classe C** (30.8% e 30.6%). A presença da Classe A é a menor. Isso reforça a ideia de que essas plataformas são muito populares entre as classes B e C.
 - **Público de YouTube:** O público do **YouTube** tem uma composição um pouco diferente. Embora a **Classe B** ainda seja o maior grupo (50%), a **Classe C** tem uma porcentagem maior (39.3%) em comparação com as outras mídias, enquanto a Classe A tem a menor representação de todas as mídias digitais analisadas (10.7%). Isso sugere que o YouTube pode ser uma plataforma valiosa para atingir um público de classe C.
@@ -175,11 +175,11 @@ A análise nos mostra que não existe um único "público digital". Cada platafo
 
 ## **Análise da Mídia Preferida por Classe Social**
 
-![16-midias-preferidas-classe-a.png](16-midias-preferidas-classe-a.png)
+<img src="/images/16-midias-preferidas-classe-a.png" alt="Midias preferidas pela classe A" width="440">
 
-![17-Midias-preferida-classe-b.png](17-Midias-preferida-classe-b.png)
+<img src="/images/17-Midias-preferida-classe-b.png" alt="Midias preferidas pela classe B" width="440">
 
-![18-Mídia-preferida-classe-c.png](18-Mdia-preferida-classe-c.png)
+<img src="/images/18-Mídia-preferida-classe-c.png" alt="Midias preferidas pela classe C" width="440">
 
 ### **Insights da Análise por Classe Social**
 
@@ -206,7 +206,7 @@ A análise por classe social nos mostra que não há um único canal de comunica
 
 ## Hábito de Balada e Frequência de Álcool por Consumo de Engov
 
-![19-habito-balada-por-consumo-engov.png](19-habito-balada-por-consumo-engov.png)
+<img src="/images/19-habito-balada-por-consumo-engov.png" alt="Hábito de consumidor engov que frequenta baladas" width="440">
 
 ### **1. O Consumo de Engov Não Está Restrito Apenas a quem Vai para Baladas**
 
@@ -218,7 +218,7 @@ A análise por classe social nos mostra que não há um único canal de comunica
 - **O que os dados mostram:** O grupo que **não consome** Engov tem uma frequência de balada maior do que o grupo que consome. As porcentagens para `1x/semana`, `1x/mês` e `2x/semana` são consistentemente maiores para o grupo "Não".
 - **Insight:** Isso nos mostra que os baladeiros assíduos não são, necessariamente, o público mais fiel da marca. Pode haver uma competição maior por esse público, ou eles podem usar outros métodos de alívio. O fato de que há mais consumidores que nunca vão à balada do que não-consumidores sugere que a marca já encontrou um público muito mais amplo.
 
-![20-frequencia-alcool-consumo-engov.png](20-frequencia-alcool-consumo-engov.png)
+<img src="/images/20-frequencia-alcool-consumo-engov.png" alt="Frequencia de consumo de alcool e de consumo de engov" width="440">
 
 Este gráfico nos mostra a frequência de consumo de álcool entre os consumidores de Engov e os não-consumidores.
 
@@ -240,9 +240,9 @@ O público com `Média` frequência de consumo de álcool é o maior grupo de n�
 
 O objetivo desta análise é entender se a idade tem alguma relação com o nível de afinidade com a marca. No início do projeto, notamos que o histograma de `Indice_Afinidade` era bimodal, com picos em baixa e alta afinidade. Agora, vamos cruzar isso com a idade para ver se a afinidade com a marca muda com o tempo.
 
-![21-distribuição-idade-publico-baixa-afinidade.png](21-distribuio-idade-publico-baixa-afinidade.png)
+<img src="/images/21-distribuição-idade-publico-baixa-afinidade.png" alt="Distribuição de idade para o publico de baixa afinidade" width="440">
 
-![22-distribuição-idade-publico-alta-afinidade.png](22-distribuio-idade-publico-alta-afinidade.png)
+<img src="/images/22-distribuição-idade-publico-alta-afinidade.png" alt="Distribuição de idade para o publico de alta afinidade" width="440">
 
 ### **1. A Idade Média não Define a Afinidade**
 
@@ -265,7 +265,7 @@ Nesta etapa, exploramos as características demográficas e de comportamento dos
 
 ---
 
-### **2. Pré-processamento dos Dados**
+### **1. Pré-processamento dos Dados**
 
 Antes de aplicar a clusterização, os dados foram preparados:
 
@@ -274,16 +274,18 @@ Antes de aplicar a clusterização, os dados foram preparados:
 
 ---
 
-### **3. Metodologia de Clusterização**
+### **2. Metodologia de Clusterização**
 
-![23-metodo-cotovelo.png](23-metodo-cotovelo.png)
+<img src="/images/23-metodo-cotovelo.png" alt="Grafico de metodo cotovelo" width="440">
 
 - **Método do Cotovelo:** Utilizou-se o **Método do Cotovelo** para determinar o número ideal de clusters. A análise do gráfico de inércia sugeriu que **3 clusters (k=3)** seria a divisão mais adequada, pois a queda na inércia se estabilizou a partir deste ponto.
 - **Algoritmo:** O modelo **K-Means** foi aplicado aos dados pré-processados, segmentando o público nos 3 grupos definidos.
 
 ---
 
-### **4. Perfis dos Clusters**
+### **3. Perfis dos Clusters**
+
+<img width="836" height="699" alt="24-grafico-clusters" src="https://github.com/user-attachments/assets/1244807a-25d2-44f1-b08d-3e79682219a8" /> TROCAR DEPOIS DO UPLOAD
 
 A análise final identificou três perfis distintos de consumidores:
 
@@ -292,6 +294,24 @@ A análise final identificou três perfis distintos de consumidores:
 | **0 (Cauteloso)** | 36 anos | 153 (Acima da Média) | 57% Consomem | **Spotify**, **TV Aberta**, **TikTok** |
 | **1 (Fiel)** | 43 anos | 167 (Alta) | 75% Consomem | **TV Aberta**, **Instagram**, **Revistas** |
 | **2 (Potencial)** | 39 anos | 92 (Baixa) | 55% Consomem | **TikTok**, **Spotify** |
+
+| Sexo | F (%) | M (%) |
+| :--- | :--- | :--- |
+| **Cluster 0** | 41.54 | 58.46 |
+| **Cluster 1** | 45.76 | 54.24 |
+| **Cluster 2** | 48.68 | 51.32 |
+
+| Consome_Engov | Não (%) | Sim (%) |
+| :--- | :--- | :--- |
+| **Cluster 0** | 43.08 | 56.92 |
+| **Cluster 1** | 25.42 | 74.58 |
+| **Cluster 2** | 44.74 | 55.26 |
+
+| Cluster | Instagram (%) | Revistas (%) | Rádio FM (%) | Spotify (%) | TV Aberta (%) | TikTok (%) | YouTube (%) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **0** (Cauteloso) | 10.77 | 7.69 | 9.23 | 23.08 | 20.00 | 16.92 | 12.31 |
+| **1** (Fiel) | 15.25 | 15.25 | 11.86 | 10.17 | 23.73 | 8.47 | 15.25 |
+| **2** (Potencial) | 13.16 | 10.53 | 5.26 | 15.79 | 14.47 | 26.32 | 14.47 |
 
 ### **Interpretação dos Clusters**
 
